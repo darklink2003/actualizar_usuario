@@ -29,5 +29,6 @@
         <input type="submit">
     </form>
 
+    <a href="v_consultar.php">usuarios registrados</a>
 </body>
 </html>
